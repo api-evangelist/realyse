@@ -52,7 +52,7 @@ x-enrichment:
 tags:
 - Company
 - Property
-- Real-Estate
+- Real Estate
 - Data
 - Analytics
 - Geospatial
@@ -71,6 +71,7 @@ tags_raw:
 - Residential
 - United Kingdom
 - PropTech
+- Real-Estate
 image: https://www.realyse.com
 apis:
 - name: REalyse Data API
